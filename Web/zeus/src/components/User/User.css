@@ -1,0 +1,28 @@
+html{
+    background-color: #c2c2c2;
+}
+.Header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Header button{
+    margin: 20px 0;
+}
+.Body{
+    display: flex;
+    flex-direction: column;
+}
+.Table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.LogoHeader{
+    height: 3rem;
+}
+.SubHeader{
+    display: flex;
+    flex-direction: row;
+}
